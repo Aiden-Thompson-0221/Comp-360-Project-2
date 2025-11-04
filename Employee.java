@@ -1,4 +1,3 @@
-java
 public class Employee {
     protected String firstName;
     protected String lastName;

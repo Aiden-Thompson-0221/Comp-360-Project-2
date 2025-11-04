@@ -1,4 +1,3 @@
-java
 public class Developer extends Employee {
     protected double monthlySalary;
 

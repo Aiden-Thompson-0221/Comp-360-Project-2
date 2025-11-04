@@ -1,4 +1,3 @@
-java
 public class NewDeveloper extends Developer {
     public static final double BASE_MONTHLY = 10000;
 

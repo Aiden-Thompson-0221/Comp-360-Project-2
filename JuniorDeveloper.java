@@ -1,4 +1,3 @@
-java
 public class JuniorDeveloper extends Developer {
     public static final double BASE_MONTHLY = 13000;
 

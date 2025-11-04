@@ -1,7 +1,6 @@
-java
-import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
+import javax.swing.*;
 
 public class PaymentSystemGUI extends JFrame {
     private final JTextField tfFirst = new JTextField(12);
