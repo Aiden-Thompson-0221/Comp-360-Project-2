@@ -28,7 +28,7 @@ public class SeniorDeveloper extends Developer {
         sb.append(String.format("Base Annual Salary: $%,.2f%n", base));
         sb.append(String.format("Additional 1%%: $%,.2f%n", extraOnePercent));
         sb.append(String.format("Special Stocks: %d%n", STOCKS));
-        if (goodProfit) sb.append("Profit Bonus: $5,000.00%n");
+        if (goodProfit) sb.append(String.format("Profit Bonus: $5,000.00%n"));
         sb.append(String.format("Total Payment: $%,.2f", total));
         return sb.toString();
     }
